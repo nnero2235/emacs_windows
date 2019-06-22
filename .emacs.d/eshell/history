@@ -1,0 +1,21 @@
+ls
+ls
+cat hello.c
+cd ..
+ls
+make
+wmake
+exit
+ls
+cd c/emacs_c/
+ls
+wmake
+./build/hello.o
+./build/hello.exe 
+exit
+ls
+exit
+git status
+git push origin master:master
+exit
+git push origin master:master
